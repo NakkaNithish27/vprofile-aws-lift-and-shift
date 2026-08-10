@@ -3,6 +3,7 @@
 [← Back to README](../README.md)
 
 ---
+<img width="1536" height="1024" alt="ChatGPT Image Aug 10, 2026, 06_26_44 AM" src="https://github.com/user-attachments/assets/5e395df4-21fb-4284-883a-716b5a1c204e" />
 
 ## 1. Architecture Overview
 
