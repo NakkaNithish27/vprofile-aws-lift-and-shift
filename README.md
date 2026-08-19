@@ -2,6 +2,8 @@
 
 AWS lift-and-shift deployment of an existing multi-tier Java application using **Amazon EC2, Route 53, S3, IAM, Application Load Balancer, ACM, and Auto Scaling**.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/693dee5f-a000-47c1-a973-c3e2dad92ca2" />
+
 > **Focus:** AWS infrastructure, application deployment, service connectivity, secure ingress, application-tier scaling, and end-to-end validation.
 
 ---
