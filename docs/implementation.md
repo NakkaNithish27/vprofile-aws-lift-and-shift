@@ -2,6 +2,9 @@
 
 [← Back to README](../README.md) · [← Architecture](architecture.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f23ac21-95cb-48f0-a790-e026d4dd8deb" />
+
+
 ---
 
 ## 1. Implementation Approach
