@@ -2,6 +2,8 @@
 
 [← Back to README](../README.md) · [← Architecture](architecture.md) · [← Implementation](implementation.md) · [Limitations & Future Work →](limitations-and-future-work.md)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/59fc40f5-1395-4de0-a26e-6c39214ca965" />
+
 ---
 
 ## 1. Validation Strategy
